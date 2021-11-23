@@ -1,4 +1,4 @@
-/**3.Write a program to print the sum and average of the even and odd numbers separately.**/
+
 import java.util.Scanner;
 
 
